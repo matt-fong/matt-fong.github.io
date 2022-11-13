@@ -199,8 +199,14 @@ input, select, textarea {
 		margin: 10px;
 	}
 
+	.project-container {
+		display: flex;
+		justify-content: center;
+		margin-bottom: 32px;
+	}
+
 	.projects {
-		width: 560px;
+		width: 100%;
 	}
 
 	.project-title {
